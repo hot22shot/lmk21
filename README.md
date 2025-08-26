@@ -13,9 +13,9 @@ Basic instructions for pairing the numpad with via web application :
 6. Now click on 'Load' and browse to the JSON definition file
 7. Connection request should pop-up
 
-> [!NOTE]
+> [!TIP]
 > For saving layout not working in the web app : https://github.com/the-via/releases/issues/241
 
-> [!ALERT]
+> [!WARNING]
 > Zuoya is on the license violator list of QMK (https://docs.qmk.fm/license_violations) it is unlikely we'll have a release of the QMK firmware from them.
 > Additionnaly the MCU used in the LKM21 numpad to provide tri-connectivity modes may not be officaly supported by QMK.
