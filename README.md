@@ -14,7 +14,7 @@ Here's some basic instructions for pairing the numpad with via web application :
 7. Connection request should pop-up
 
 > [!TIP]
-> In case saving a layout is not working in the web app : https://github.com/the-via/releases/issues/241\
+> In case saving a layout is not working in the web app : https://github.com/the-via/releases/issues/241  
 > This is due to a missing permission (file system access API) in the browser settings.
 
 > [!WARNING]
