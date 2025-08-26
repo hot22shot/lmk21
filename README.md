@@ -14,7 +14,8 @@ Basic instructions for pairing the numpad with via web application :
 7. Connection request should pop-up
 
 > [!TIP]
-> For saving layout not working in the web app : https://github.com/the-via/releases/issues/241
+> In case saving a layout is not working in the web app : https://github.com/the-via/releases/issues/241
+> This is due to a missing permission in the browser configuration.
 
 > [!WARNING]
 > Zuoya is on the license violator list of QMK (https://docs.qmk.fm/license_violations) it is unlikely we'll have a release of the QMK firmware from them.
