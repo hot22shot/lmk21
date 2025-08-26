@@ -2,8 +2,9 @@
 
 * definition : contains the definition json files for the numpad to be recognized by the usevia.app application.
 * layout : via json layouts for the numpad.
+* zuoya : contain an exe that will flash the lmk21 numpad to its default configuration.
 
-Basic instructions :
+Basic instructions for pairing the numpad with via web application :
 1. Connect the numpad
 2. Open https://www.usevia.app/
 3. Go to the Settings tab
