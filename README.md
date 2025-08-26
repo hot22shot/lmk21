@@ -4,7 +4,7 @@
 * layout : via json layouts for the numpad.
 * zuoya : contain an exe that will flash the lmk21 numpad to its default configuration.
 
-Basic instructions for pairing the numpad with via web application :
+Here's some basic instructions for pairing the numpad with via web application :
 1. Connect the numpad
 2. Open https://www.usevia.app/
 3. Go to the Settings tab
@@ -14,10 +14,9 @@ Basic instructions for pairing the numpad with via web application :
 7. Connection request should pop-up
 
 > [!TIP]
-> In case saving a layout is not working in the web app : https://github.com/the-via/releases/issues/241
-> 
-> This is due to a missing permission in the browser configuration.
+> In case saving a layout is not working in the web app : https://github.com/the-via/releases/issues/241\
+> This is due to a missing permission (file system access API) in the browser settings.
 
 > [!WARNING]
-> Zuoya is on the license violator list of QMK (https://docs.qmk.fm/license_violations) it is unlikely we'll have a release of the QMK firmware from them.
+> Zuoya is on the license violator list of QMK (https://docs.qmk.fm/license_violations) it is unlikely we'll have a release of the QMK firmware from them.\
 > Additionnaly the MCU used in the LKM21 numpad to provide tri-connectivity modes may not be officaly supported by QMK.
