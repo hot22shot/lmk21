@@ -19,4 +19,4 @@ Here's some basic instructions for pairing the numpad with via web application :
 
 > [!WARNING]
 > Zuoya is on the license violator list of QMK (https://docs.qmk.fm/license_violations) it is unlikely we'll have a release of the QMK firmware from them.\
-> Additionnaly the MCU used in the LKM21 numpad to provide tri-connectivity modes may not be officaly supported by QMK.
+> Additionnaly the MCU used in the LKM21 numpad to provide tri-connectivity modes may not be officialy supported by QMK.
